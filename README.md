@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**mohamed-elsay3d/mohamed-elsay3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mohamed Elsayed  
+Junior Penetration Tester passionate about Web Security 🔐  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Currently learning Web Security
+- Practicing on PortSwigger & TryHackMe
+- Interested in Bug Bounty
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Skills
+- Burp Suite
+- Nmap
+- Python
+
+## 📌 Projects
+- PortSwigger Labs Notes
+- Writeups
+- Python Scripts
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/mohammed-elsay3d/
