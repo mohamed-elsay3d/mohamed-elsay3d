@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Mohamed Elsayed 
  
-Junior Penetration Tester passionate about Web Security 🔐  
+Junior Penetration Tester passionate about Offensive Security 🔐  
 
 ## 🚀 About Me
 - Currently learning Web Security
